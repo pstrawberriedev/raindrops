@@ -1,0 +1,35 @@
+Raindrops: Characters
+-----------------------
+
+Primary Characters:
+	- The purpose of the primary characters is to facilitate the plot's growth via consistant, charasmatic demeanor and predictable actions and dialogs
+	- The primary characters, who are scarcely prone to rapid change, move the plot along by reacting to the events facilitated by secondary and tertiary characters
+	- Primary characters are the most grounded and wise characters who, in their own ways, take the time to assess every situation properly before making decisions
+	
+	[Auril Serelian]
+	Role(s): "Voice of reason"
+	Gender: Female
+	Age: 103
+	Allegiance: Neutral/Altruistic
+	Occupation: Earth Overseer (akin to "World President")
+	Demeanor: Wise, Collected, Firm, Reasonable
+	
+
+	
+Secondary Characters:
+	- The purpose of the secondary characters is to drive the plot via actions that the primary characters react to (the catalysts)
+	- Secondary characters are prone to impulse and emotion, which makes them more "human" and relatable than primary characters
+	- Secondary characters are supported by and interact often with tertiary characters, but are generally independent of primary characters in personal relation
+	
+	[Giim]
+	Role(s): Protagonist
+	Gender: Female
+	Age: 103
+	Allegiance: Neutral/Altruistic
+	Occupation: Earth Overseer (akin to "World President")
+	Demeanor: Wise, Collected, Firm, Reasonable
+	
+	
+Tertiary Characters:
+	- The purpose of tertiary characters is to support the plot with details, stories, relationships, and any forms by which information is to be given to the reader
+	- Tertiary characters generally have minor roles, but are at the "root" of the plot, providing information by which the secondary characters take action
